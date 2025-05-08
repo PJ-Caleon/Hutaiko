@@ -14,3 +14,6 @@ Here are some of the references used to build this project:
 This project is still evolving! Here’s what’s planned for upcoming updates:
 - 🎮 **C++ Version:** Develop another iteration of the game using C++.
 - 🕹️ **Arduino Controller Integration:** Implement a version where gameplay is controlled via an Arduino-based interface.
+
+## Play on Browser
+[Browser Version] (https://kagzz.itch.io/hutaiko)
