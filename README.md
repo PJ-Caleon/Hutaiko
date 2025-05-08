@@ -16,4 +16,4 @@ This project is still evolving! Here’s what’s planned for upcoming updates:
 - 🕹️ **Arduino Controller Integration:** Implement a version where gameplay is controlled via an Arduino-based interface.
 
 ## Play on Browser
-[Browser Version] (https://kagzz.itch.io/hutaiko)
+[Browser Version](https://kagzz.itch.io/hutaiko)
