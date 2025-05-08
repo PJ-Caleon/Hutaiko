@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=3 uid="uid://bb6cf7tefkmvo"]
+
+[ext_resource type="PackedScene" uid="uid://blg6jyarvwtwp" path="res://Object/key_listener.tscn" id="1_up8ek"]
+[ext_resource type="Texture2D" uid="uid://dkmcc5hn8hwr2" path="res://Art/hutaoBG.jpg" id="1_wownj"]
+[ext_resource type="PackedScene" uid="uid://dw3rfa1hsqs75" path="res://Levels/game_ui.tscn" id="2_wlvk4"]
+[ext_resource type="PackedScene" uid="uid://cwu64ricy33if" path="res://Object/level_editor.tscn" id="3_wmi5p"]
+
+[node name="GameLevel" type="Node2D"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="Background" type="Sprite2D" parent="."]
+modulate = Color(0.336608, 0.336608, 0.336608, 1)
+scale = Vector2(1.56, 1.56)
+texture = ExtResource("1_wownj")
+
+[node name="KeyListener" parent="." instance=ExtResource("1_up8ek")]
+position = Vector2(0, 230)
+key_name = "hit_btn"
+
+[node name="GameUI" parent="." instance=ExtResource("2_wlvk4")]
+offset_left = -586.0
+offset_top = -320.0
+offset_right = -586.0
+offset_bottom = -320.0
+
+[node name="MusicPlayer" type="AudioStreamPlayer2D" parent="."]
+
+[node name="LevelEditor" parent="." instance=ExtResource("3_wmi5p")]

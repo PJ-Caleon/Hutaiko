@@ -1,0 +1,47 @@
+[gd_scene load_steps=2 format=3 uid="uid://dw3rfa1hsqs75"]
+
+[ext_resource type="Script" uid="uid://d4d416dxkqs00" path="res://Levels/game_ui.gd" id="1_vqdjf"]
+
+[node name="GameUI" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_vqdjf")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ScoreLabel" type="RichTextLabel" parent="."]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = 835.0
+offset_top = 12.0
+offset_right = 1147.0
+offset_bottom = 78.0
+theme_override_font_sizes/normal_font_size = 40
+text = "0"
+scroll_active = false
+horizontal_alignment = 2
+
+[node name="ComboLabel" type="RichTextLabel" parent="."]
+unique_name_in_owner = true
+offset_left = 28.0
+offset_top = 563.0
+offset_right = 340.0
+offset_bottom = 629.0
+theme_override_font_sizes/normal_font_size = 40
+text = "0x"
+scroll_active = false
+
+[node name="sourceLabel" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_left = 817.0
+offset_top = 605.0
+offset_right = 1148.0
+offset_bottom = 643.0
+theme_override_font_sizes/normal_font_size = 20
+text = "Passion Project: github/PJ-Caleon"
+scroll_active = false
+horizontal_alignment = 2
