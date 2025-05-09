@@ -1,22 +1,40 @@
-# Hutaiko 🎮🎵
+# Hutaiko 🎮🥁🔥
 
-Hutaiko is a **Hu Tao-themed spoof of Osu! Taiko**, featuring custom music and skins inspired by Genshin Impact. This passion project serves as a practice ground for **game development using the Godot engine**.
+Hutaiko is a **Hu Tao-themed spoof of Osu! Taiko**, featuring custom music and skins inspired by **Genshin Impact**. This passion project serves as a **playground for game development**, built with the **Godot engine**.
+
+## 📜 Features
+✨ **Custom Hu Tao-themed Taiko skins**  
+🎶 **Sound effects & music curated for the theme**  
+🕹️ **Multiple control options** (Keyboard & Arduino)  
+🚀 **Playable directly from the browser**  
+
+---
 
 ## 🔗 Sources & References
-Here are some of the references used to build this project:
-- [YouTube Video](https://www.youtube.com/watch?v=lhrqsUZ45j8)
-- [YouTube Video](https://www.youtube.com/watch?v=-F19D7OOkJk)
-- [Osu! Hit Sound](https://www.myinstants.com/en/instant/osu-hit-sound-29289/)
-- [Osu! Hit Sound](https://www.myinstants.com/en/instant/osu-hit-sound-29289/)
-- [Hu Tao Pinterest Inspiration](https://ph.pinterest.com/pin/174444185560567223/)
+A collection of resources that helped shape this project:
+- 🎥 [YouTube Guide 1](https://www.youtube.com/watch?v=lhrqsUZ45j8)  
+- 🎥 [YouTube Guide 2](https://www.youtube.com/watch?v=-F19D7OOkJk)  
+- 🔊 [Osu! Hit Sound](https://www.myinstants.com/en/instant/osu-hit-sound-29289/)  
+- 🎨 [Hu Tao Pinterest Inspiration](https://ph.pinterest.com/pin/174444185560567223/)  
+- 🛠️ [Arduino Controller Guide](https://www.youtube.com/watch?v=zEveh8KbWdM)  
 
-## 🚀 Controllers
-This project is still evolving! Here’s what’s planned for upcoming updates:
-- 🎮 **Keyboard:** W,E,Z,X, or Spacebar
-- 🕹️ **Arduino Controller:**
-   ![download](https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae)
-  - [Gameplay Video](https://www.instagram.com/reel/DJalQYsSVde/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+---
+
+## 🎮 Controllers
+Choose your preferred setup for the best experience:
+
+### ⌨️ Keyboard Controls
+Press the following keys to hit the beats:
+```W,E,Z,X or Spacebar```
 
 
-## Play on Browser
-[Browser Version](https://kagzz.itch.io/hutaiko)
+### 🕹️ Arduino Controller
+A custom hardware setup 
+![Arduino Setup](https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae)  
+▶️ [Watch Gameplay in Action](https://www.instagram.com/reel/DJalQYsSVde/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+---
+
+## 🌍 Play on Browser
+Jump into the rhythm directly online:  
+🔗 **[Play Hutaiko on Itch.io](https://kagzz.itch.io/hutaiko)**
