@@ -10,10 +10,13 @@ Here are some of the references used to build this project:
 - [Osu! Hit Sound](https://www.myinstants.com/en/instant/osu-hit-sound-29289/)
 - [Hu Tao Pinterest Inspiration](https://ph.pinterest.com/pin/174444185560567223/)
 
-## 🚀 Future Plans
+## 🚀 Controllers
 This project is still evolving! Here’s what’s planned for upcoming updates:
-- 🎮 **C++ Version:** Develop another iteration of the game using C++.
-- 🕹️ **Arduino Controller Integration:** Implement a version where gameplay is controlled via an Arduino-based interface.
+- 🎮 **Keyboard:** W,E,Z,X, or Spacebar
+- 🕹️ **Arduino Controller:**
+   ![download](https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae)
+  - [Gameplay Video](https://www.instagram.com/reel/DJalQYsSVde/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 
 ## Play on Browser
 [Browser Version](https://kagzz.itch.io/hutaiko)
