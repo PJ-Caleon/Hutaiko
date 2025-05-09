@@ -30,7 +30,7 @@ Press the following keys to hit the beats:
 
 ### 🕹️ Arduino Controller
 A custom hardware setup 
-![Arduino Setup](https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae)  
+<img src="https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae" width="300">
 ▶️ [Watch Gameplay in Action](https://www.instagram.com/reel/DJalQYsSVde/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ---
