@@ -31,10 +31,7 @@ Press the following keys to hit the beats:
 ### 🕹️ Arduino Controller
 A custom hardware setup 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae" width="300" style="display: block; transform: rotate(90deg);">
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae" width="300" style="display: block; transform: rotate(180deg);">
+  <img src="https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae" width="150" style="display: block;">
 </div>
 
 
