@@ -31,8 +31,12 @@ Press the following keys to hit the beats:
 ### 🕹️ Arduino Controller
 A custom hardware setup 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae" style="transform: rotate(90deg); width: 300px;">
+  <img src="https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae" width="300" style="display: block; transform: rotate(90deg);">
 </div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/31612199-4aa3-45fd-a206-f8805bda2cae" width="300" style="display: block; transform: rotate(180deg);">
+</div>
+
 
 ▶️ [Watch Gameplay in Action](https://www.instagram.com/reel/DJalQYsSVde/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
